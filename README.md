@@ -1,1 +1,2 @@
-#cuy
+
+![gambar](gambar1/png)
