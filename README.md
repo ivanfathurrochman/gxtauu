@@ -7,5 +7,5 @@
 
 ![Gambar](gambar/gambar2.jpeg)
 
-![Gambar](gambar/Screenshot (24).PNG)
+![Gambar](gambar/gamabar3.jpeg)
 
