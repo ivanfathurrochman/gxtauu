@@ -2,4 +2,4 @@
 
 ## latihan 1
 ### end 
-![gambar](gambar1/png)
+![gambar](gambar1/JPEG)
