@@ -3,3 +3,6 @@
 ## latihan 1
 ### end 
 ![Gambar](gambar/gambar1.jpeg)
+
+
+![Gambar](gambar/gambar2.jpeg)
