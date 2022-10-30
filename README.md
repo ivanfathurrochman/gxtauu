@@ -7,5 +7,5 @@
 
 ![Gambar](gambar/gambar2.jpeg)
 
-![Gambar](gambar/gamabar3.png)
+![Gambar](gambar/gambar3.png)
 
