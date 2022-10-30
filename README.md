@@ -2,4 +2,4 @@
 
 ## latihan 1
 ### end 
-![gambar](gambar/gambar1.jepg)
+![Gambar](gambar/gambar1.jepg)
