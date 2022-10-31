@@ -23,7 +23,7 @@ Hasil Latihan 1
 
 Gambar1
 
-Latihan 2
+## Latihan 2
 
 Input Variable
 
@@ -59,11 +59,11 @@ Hasil Latihan 2
 
 Gambar1
 
-Latihan 3
+## Latihan 3
 
 Menggunakan String Format untuk membuat Belah Ketupat Gambar1
 
-Latihan 4
+## Latihan 4
 
 Luas dan Keliling Lingkaran
 
