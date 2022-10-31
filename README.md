@@ -19,6 +19,7 @@ print(0, 100) print(1, 101) print(2, 102) print(3, 103) print(4, 104) print(5, 1
 String Format 2
 
 print('{0:>3} {1:>16}'.format(0, 100)) print('{0:>3} {1:>16}'.format(0, 101)) print('{0:>3} {1:>16}'.format(0, 102)) print('{0:>3} {1:>16}'.format(0, 103)) print('{0:>3} {1:>16}'.format(0, 104)) print('{0:>3} {1:>16}'.format(0, 105)) print('{0:>3} {1:>16}'.format(0, 106)) print('{0:>3} {1:>16}'.format(0, 107)) print('{0:>3} {1:>16}'.format(0, 108)) print('{0:>3} {1:>16}'.format(0, 109)) print('{0:>3} {1:>16}'.format(0, 10**10))
+
 [Gambar](
 
 Hasil Latihan 1
@@ -32,6 +33,7 @@ Input Variable
 Penggunaan python untuk menginput nilai variabel dengan cara
 
 a=input("masukkan nilai a:") b=input("masukkan nilai b:")
+
 [Gambar](
 
 Cetak Variable
@@ -39,28 +41,32 @@ Cetak Variable
 Mencetak nilai kedua variabel ketika sudah di input
 
 print("variable a=",a) print("variable b=",b)
-[Gambar](
+
+[Gambar1](
 
 Penggabungan Variable
 
 Penggabungan kedua nilai Variable
 
 print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
-[Gambar](
+
+[Gambar1](
 
 Input Variable 2
 
 Penggunaan python untuk menginput kedua variable
 
 a=int(a) b=int(b) 
-[Gambar](
+
+[Gambar1](
 
 Konversi Nilai Variable
 
 Mencetak kembali hasil mengkonversi nilai kedua variabel
 
 print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b)) print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
-[Gambar](
+
+[Gambar1](
 
 Hasil Latihan 2
 
@@ -69,17 +75,20 @@ Gambar1
 ## Latihan 3
 
 Menggunakan String Format untuk membuat Belah Ketupat 
-[Gambar](
+
+[Gambar1](
 
 ## Latihan 4
 
 Luas dan Keliling Lingkaran
 
 Flowchart untuk mencari luas dan keliling lingkaran
-[Gambar](
+
+[Gambar1](
 
 Praktikum 3
-[Gambar](
+
+[Gambar1](
 
 hasil praktikum 3 yang telah saya lakukan yaitu:
 
