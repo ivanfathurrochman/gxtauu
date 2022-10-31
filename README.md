@@ -6,7 +6,7 @@ Penggunaan end
 
 Parameter akhir dalam fungsi cetak digunakan untuk menambahkan string apa pun. Di akhir output dari pernyataan print dengan python. Secara default, fungsi cetak diakhiri dengan baris baru. Melewati spasi putih ke parameter akhir (end=' ') menunjukkan bahwa karakter akhir harus diidentifikasi oleh spasi putih dan bukan baris baru.
 
-![gambar](gambar1.png)
+![gambar1](gambar/gambar1.png)
 
 print('A', end='') print('B', end='') print('C', end='') print() print('X') print('Y') print('Z') 
 
