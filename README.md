@@ -10,7 +10,7 @@ Parameter akhir dalam fungsi cetak digunakan untuk menambahkan string apa pun. D
 
 print('A', end='') print('B', end='') print('C', end='') print() print('X') print('Y') print('Z') 
 
-![Gambar1](gambar2.jpeg)
+![Gambar1](gambar2.png)
 
 tring Format
 
@@ -19,7 +19,7 @@ String Formatting atau Pemformatan string memungkinkan kita menyuntikkan item ke
 ## string format
 print(0, 100) print(1, 101) print(2, 102) print(3, 103) print(4, 104) print(5, 105) print(6, 106) print(7, 107) print(8, 108) print(9, 109) print(10, 10**10) 
 
-![Gambar](gambar.jpeg)
+![Gambar1](gambar.png)
 
 String Format 2
 
