@@ -10,7 +10,7 @@ Parameter akhir dalam fungsi cetak digunakan untuk menambahkan string apa pun. D
 
 print('A', end='') print('B', end='') print('C', end='') print() print('X') print('Y') print('Z') 
 
-![Gambar1](gambar2.png)
+![gambar1](gambar/gambar2.png)
 
 tring Format
 
@@ -19,17 +19,17 @@ String Formatting atau Pemformatan string memungkinkan kita menyuntikkan item ke
 ## string format
 print(0, 100) print(1, 101) print(2, 102) print(3, 103) print(4, 104) print(5, 105) print(6, 106) print(7, 107) print(8, 108) print(9, 109) print(10, 10**10) 
 
-![Gambar1](gambar.png)
+![gambar1](gambar/gambar.png)
 
 String Format 2
 
 print('{0:>3} {1:>16}'.format(0, 100)) print('{0:>3} {1:>16}'.format(0, 101)) print('{0:>3} {1:>16}'.format(0, 102)) print('{0:>3} {1:>16}'.format(0, 103)) print('{0:>3} {1:>16}'.format(0, 104)) print('{0:>3} {1:>16}'.format(0, 105)) print('{0:>3} {1:>16}'.format(0, 106)) print('{0:>3} {1:>16}'.format(0, 107)) print('{0:>3} {1:>16}'.format(0, 108)) print('{0:>3} {1:>16}'.format(0, 109)) print('{0:>3} {1:>16}'.format(0, 10**10))
 
-![Gambar](gambar4.jpeg)
+![gambar1](gambar/gambar4.jpeg)
 
 Hasil Latihan 1
 
-![Gambar](gambar5.jpeg)
+![gambar1](gambar/gambar5.jpeg)
 
 ## Latihan 2
 
@@ -39,7 +39,7 @@ Penggunaan python untuk menginput nilai variabel dengan cara
 
 a=input("masukkan nilai a:") b=input("masukkan nilai b:")
 
-![Gambar](gambar6.jpeg)
+![gambar1](gambar/gambar6.jpeg)
 
 Cetak Variable
 
@@ -47,7 +47,7 @@ Mencetak nilai kedua variabel ketika sudah di input
 
 print("variable a=",a) print("variable b=",b)
 
-![Gambar1](gambar7.jpeg)
+![gambar1](gambar/gambar7.jpeg)
 
 Penggabungan Variable
 
@@ -55,7 +55,7 @@ Penggabungan kedua nilai Variable
 
 print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
 
-![Gambar1](gambar8.jpeg)
+![Gambar1](gambar/gambar8.jpeg)
 
 Input Variable 2
 
@@ -63,7 +63,7 @@ Penggunaan python untuk menginput kedua variable
 
 a=int(a) b=int(b) 
 
-![Gambar1](gambar9.jpeg)
+![gambar1](gambar/gambar9.jpeg)
 
 Konversi Nilai Variable
 
@@ -71,17 +71,17 @@ Mencetak kembali hasil mengkonversi nilai kedua variabel
 
 print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b)) print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 
-![Gambar1](gambar10.jpeg)
+![gambar1](gambar/gambar10.jpeg)
 
 Hasil Latihan 2
 
-![Gambar1](gambar11.jpeg)
+![gambar1](gambar/gambar11.jpeg)
 
 ## Latihan 3
 
 Menggunakan String Format untuk membuat Belah Ketupat 
 
-![Gambar1](gambar12.jpeg)
+![gambar1](gambar/gambar12.jpeg)
 
 ## Latihan 4
 
